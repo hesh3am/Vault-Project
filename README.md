@@ -1,4 +1,6 @@
 # Vault-Project
+![vault](https://github.com/hesh3am/Redmine/assets/34006266/302b1bbb-a572-44f7-b58d-d4af078ea71c)
+
 A Vault-Project with a Wordpress interface and Mysql database monitoring by a PhPmyAdmin
 # Vault [![CircleCI](https://circleci.com/gh/hashicorp/vault.svg?style=svg)](https://circleci.com/gh/hashicorp/vault) [![vault enterprise](https://img.shields.io/badge/vault-enterprise-yellow.svg?colorB=7c8797&colorA=000000)](https://www.hashicorp.com/products/vault/?utm_source=github&utm_medium=banner&utm_campaign=github-vault-enterprise)
 
